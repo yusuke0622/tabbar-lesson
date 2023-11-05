@@ -18,7 +18,7 @@ h1 {
 }
 
 #tab-menu {
-    display: none;
+    display: flex;
 }
 
 #tab-menu li {
